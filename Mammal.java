@@ -1,4 +1,4 @@
-public class Mammal extends Animal {
+public abstract class Mammal extends Animal {
     private int speed;
     private String specialTrait;
 
